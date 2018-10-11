@@ -1,1 +1,9 @@
 Hello GitHubgit remote -v
+
+
+
+
+--------------------------------
+Hello
+
+8-oss-practice 60172135 김민지
